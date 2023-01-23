@@ -1,1 +1,1 @@
-__THIS__ is ___Awesome___
+__THIS__ is Awesome
